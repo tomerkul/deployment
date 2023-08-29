@@ -1,0 +1,2 @@
+appImage: tomerkul/myflask:latest
+dbImage: tomerkul/mysql:latest
