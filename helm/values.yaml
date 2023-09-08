@@ -1,2 +1,2 @@
-appImage: tomerkul/myflask:7.09
+appImage: tomerkul/myflask:7.0
 dbImage: tomerkul/mysql:4.73
